@@ -3,7 +3,7 @@
 ## 🌟About CentWise
 
 1. Expense Tracking:
-CentWise allows users to record and track shared expenses in real time. Users can input details such as the amount spent, the purpose of the expense, and the participants involved.
+CentWise allows users to record and track shared expenses in real-time. Users can input details such as the amount spent, the purpose of the expense, and the participants involved.
 
 2. Bill Splitting:
 The application provides a convenient way to split bills among multiple individuals. Whether it's splitting the rent, utilities, groceries, or any other shared expense, CentWise ensures a fair and accurate distribution of costs.
@@ -14,7 +14,7 @@ CentWise operates as a collaborative platform, enabling users to invite others t
 ## Key Features 🚀
 
 1. Login and Signup
-   Allows the user to create a new profile or login into an existing account
+   Allows the user to create a new profile or log into an existing account
 
 2. Forgot password functionality
    Allows the user to reset their password, with the forgot password functionality, using the nodeMailer
@@ -36,7 +36,7 @@ CentWise operates as a collaborative platform, enabling users to invite others t
    Visual representation of the amount you owe and the amount you are owed in the form of pie charts
 
 9. Update User Profile:
-   Allows users to update the personal profile details
+   Allows users to update their personal profile details
 
 10. Profile picture:
    Used Multer to add the functionality for uploading and updating user profile display picture
@@ -86,14 +86,14 @@ CentWise operates as a collaborative platform, enabling users to invite others t
 2. Implement basic profile customization options (e.g. profile picture, username, etc)
 
 #### Milestone 2: Google Auth
-1. Ability to sign in to the application using the user's google account
+1. Ability to sign in to the application using the user's Google account
 
 #### Milestone 3: Dashboard and 
 1. Creating the dashboard card to show all the active expenses and transaction list
    
 #### Milestone 4: Navigation Panel
 1. Setting up the Navigation bar with the "Add an expense" and "Settle Up" buttons
-2. Integrating the User Profile section in the navigation bar, along with the functionality to edit the user's personal details, invite friends functionality
+2. Integrating the User Profile section in the navigation bar, along with the functionality to edit the user's details, invite friends functionality
 
 #### Milestone 4: Create groups and add new friends
 1. Integrating the functionality to create a new expense group with the added CentWise users
@@ -120,11 +120,8 @@ CentWise operates as a collaborative platform, enabling users to invite others t
 * npm install -D vite@3.1.4 @vitejs/plugin-react@2.1.0
 * npm install react@18.2.0 react-dom@18.2.0 
 
-## Contact Us 📬
+## Contact Me 📬
 
  saoji.a@northeastern.edu
- dangore.k@northeastern.edu
- vijayvargiya.m@northeastern.edu
- limbodiya.y@northeastern.edu 
 
 #### Thank you from team CentWise! 🚀 💰
