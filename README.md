@@ -53,7 +53,7 @@ CentWise operates as a collaborative platform, enabling users to invite others t
 
 1. Clone the repository:
 
-   git clone https://github.com/info-6150-fall-2023/final-project-CentWise.git
+   git clone [https://github.com/info-6150-fall-2023/final-project-CentWise.git](https://github.com/ashayssaoji/CentWise.git)
 
 
 2. Install project dependencies:
